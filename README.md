@@ -1,1 +1,1 @@
-# chatGPT-ElevenLabs
+# ChatGPT as brain + ElevenLabs voice = MAGIC
